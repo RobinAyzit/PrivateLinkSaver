@@ -87,7 +87,7 @@ Created with ❤️ by **© nRn World** (2026).
 
 - ⭐ **Star this repo** if you find it useful!
 - 📧 Support & Contact: `bynrnworld@gmail.com`
-- ☕ **[Buy me a coffee](https://buymeacoffee.com/nrnworld)** to support further development.
+- ☕ **[Support on Ko-fi](https://ko-fi.com/nrnworld)** to support further development.
 
 ---
 
