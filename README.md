@@ -94,3 +94,5 @@ Created with ❤️ by **© nRn World** (2026).
 <div align="center">
   <p><i>Privacy is not a feature, it's a right.</i></p>
 </div>
+
+Created by ❤️ © nRn World
